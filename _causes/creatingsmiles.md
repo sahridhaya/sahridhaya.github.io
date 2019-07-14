@@ -1,7 +1,7 @@
 ---
 layout: causes
-title: Bit Please
+title: Creating Smiles
 current: 0
-total: 2000
+total : 2000
 bg: front_bg.jpg
 ---
