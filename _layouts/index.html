@@ -76,8 +76,8 @@
                     {% for cause in site.causes %}
                     <div class="grid">
                         <div class="img-holder">
-                            <a href="images/causes-s3/img-1.jpg" class="fancybox"><i class="fa fa-link"></i></a>
-                            <img src="images/causes-s3/img-1.jpg" alt class="img img-responsive">
+                            <a href="images/causes/{{cause.bg}}" class="fancybox"><i class="fa fa-link"></i></a>
+                            <img src="images/causes/thumbs/{{cause.bg}}" alt class="img img-responsive">
                         </div>
                         <div class="details">
                             <h3><a href="{{cause.url}}">{{cause.title}}</a></h3>
