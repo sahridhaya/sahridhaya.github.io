@@ -1,0 +1,11 @@
+title: Sahridhaya - Be Together Grow Together
+mail: info@sahridhaya.org
+phno: +91-8547978688
+insta: https://www.instagram.com/sahridhaya/
+fb: https://www.facebook.com/Sahridhaya/
+collections:
+  causes:
+    output: true
+    permalink: :name.html
+include:
+  - images
