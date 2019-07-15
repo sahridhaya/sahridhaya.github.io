@@ -8887,7 +8887,7 @@ a:focus {
 #9.0	contact-section
 --------------------------------------------------------------*/
 .contact-page .page-title {
-  background: url("../images/page-title/img-3.jpg") center center/cover no-repeat local;
+  background: url("../images/front_bg.jpg") center center/cover no-repeat local;
 }
 
 .contact-page .contact-section-wrapper {
