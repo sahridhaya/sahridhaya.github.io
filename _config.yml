@@ -8,10 +8,12 @@ fb: https://www.facebook.com/Sahridhaya/
 years: 7
 volunteers: 177
 events: 69
-partners: 28
+assoc: 28
 collections:
   causes:
     output: true
     permalink: :name.html
+  partners:
+    output: false
 include:
   - images
