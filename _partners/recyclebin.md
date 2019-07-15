@@ -1,5 +1,5 @@
 ---
 title: Recycle Bin
-logo: img-1.jpg
+logo: bin.png
 link: https://www.facebook.com/pg/RECYCLEBIN.TRIVANDRUM/
 ---
