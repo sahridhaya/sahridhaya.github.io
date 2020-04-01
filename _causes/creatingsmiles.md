@@ -4,7 +4,7 @@ title: Creating Smiles
 current: 0
 total : 780
 percent: 0
-bg: front_bg.jpg
+bg: creatingSmiles.jpg
 ---
 In order to unite people who wants to showcase talent and a set of people to appreciate this, we found various homes in Trivandrum as the perfect stage. Few of them are:
 
