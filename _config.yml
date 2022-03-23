@@ -5,6 +5,8 @@ address: Palayam, Thiruvananthapuram, Kerala 695035
 map: https://goo.gl/maps/SyGdC6t4CUaDgJ9g6
 insta: https://www.instagram.com/sahridhaya/
 fb: https://www.facebook.com/Sahridhaya/
+linkedin: https://www.linkedin.com/company/sahridhaya
+telegram: https://t.me/+7Zh_h7Gue382ZWFl
 years: 7
 volunteers: 177
 events: 69
@@ -14,6 +16,8 @@ collections:
     output: true
     permalink: :name.html
   partners:
+    output: false
+  team:
     output: false
 include:
   - images
