@@ -1,5 +1,5 @@
 ---
 title: DotProduct Solutions
 logo: dot.jpg
-link: https://dotproduct.in/
+link: https://www.dotproduct.in/
 ---
